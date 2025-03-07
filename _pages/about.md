@@ -20,7 +20,7 @@ redirect_from:
  
  
 A current computer science student at Sun Yat-sen University.
-My research interest includes computer graphics and computer vision.  (用例索引 <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes computer graphics and computer vision.  (用例索引 <a href='https://github.com/'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
  
  
 
@@ -34,7 +34,7 @@ My research interest includes computer graphics and computer vision.  (用例索
 
 [？](https://github.com/)
 
-**K**, X
+**K** , X
 
 [**Project**](https://github.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -42,7 +42,7 @@ My research interest includes computer graphics and computer vision.  (用例索
 </div>
 
 # 🥇 Honors and Awards
-- *2021.10* L.  
+- *2021.10* , L.  
 
 # 📖 Educations
 - *2024.09 - now*, Sun Yat - sen University , Computer Science and Technology , Master of Engineering. 
